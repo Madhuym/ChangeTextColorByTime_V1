@@ -1,2 +1,2 @@
-# ChangeTextColorByTime_V1
+# ChangeTextColorByTime
 Created with CodeSandbox
